@@ -4,9 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Android | Backend developer.
-- 🔭 &nbsp; I’m currently learning Node.js.
+- 🔭 &nbsp; I’m currently learning React.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching Youtube, reading tech blog and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
